@@ -10,7 +10,7 @@ const classesRoute = require("./routes/classesRoutes");
 const landingRoute = require("./routes/landingPageRoutes");
 
 
-// IMPORTANT VARS
+// INIT VARS
 const app = express();
 const port = process.env.PORT || 5000;
 
